@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Deadpool Soundboard</string>
+
+    <string-array name="soundNames">
+        <item>Blurry Line</item>
+        <item>Brown Pants</item>
+        <item>Cancer Everywhere</item>
+        <item>Cancer in Spanish</item>
+        <item>Chimichanga</item>
+        <item>Don\'t Swallow</item>
+        <item>Fancy Red Suit</item>
+        <item>Feel just like a Little Girl</item>
+        <item>Make a Difference</item>
+        <item>Maximum Effort</item>
+        <item>Nothing we Don\'t Share</item>
+        <item>Pickup Line</item>
+        <item>Real Pain</item>
+        <item>Shoot Baby</item>
+        <item>Stove On</item>
+        <item>Today</item>
+        <item>Touching Myself</item>
+        <item>Very Own Movie</item>
+    </string-array>
+
+    <string name="action_send">Share</string>
+    <string name="action_ringtone">Save as...</string>
+
+    <string name="perm_write_settings_error">Function requires settings permission!</string>
+    <string name="perm_write_storage_error">Function requires storage permission!</string>
+
+</resources>
